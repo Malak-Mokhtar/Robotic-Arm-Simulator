@@ -1,11 +1,12 @@
 # Robot Arm Simulator
 Robotic arm manipulator of three planar links.
+
 This is a program that calculates:
  - Direct kinematics Model
  - Inverse kinematics Model
  - The working area using Green's theorem
 
-The program also include:
+The program also includes:
  - Plotting the working area
  - Generation of straight line trajectory between two points in the working area
  - Robot animation
