@@ -3,7 +3,8 @@ Robotic arm manipulator of three planar links.
 This is a program that calculates:
  - Direct kinematics Model
  - Inverse kinematics Model
- - Calculation of working area using Green's theorem
+ - The working area using Green's theorem
+The program also include:
  - Plotting the working area
  - Generation of straight line trajectory between two points in the working area
  - Robot animation
